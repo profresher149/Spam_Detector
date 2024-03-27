@@ -13,7 +13,9 @@ Utilize the trained model to classify new email data.
 
 Files:
 spam_detection.ipynb: Jupyter Notebook for project implementation.
+
 spam_ham_dataset.csv: Labeled email dataset.
+
 README.md: Project overview and instructions.
 
 Conclusion:
